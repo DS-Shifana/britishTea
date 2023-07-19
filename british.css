@@ -153,7 +153,12 @@ p
 {
     font-size: 15px;
     font-weight: lighter;
+    color: #4d4d4d;
 
+}
+span
+{
+    color: blue;
 }
 .move
 {
@@ -266,6 +271,7 @@ button
     font-size: 16px;
     font-size: 18px;
 line-height:24px ;
+color: grey;
 }
 .r1
 {
